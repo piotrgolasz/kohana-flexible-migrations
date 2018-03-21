@@ -1,0 +1,19 @@
+{
+  "name": "piotrgolasz/kohana-flexible-migrations",
+  "description": "Migrations for Kohana/Koseven",
+  "license": "BSD",
+  "keywords": [
+    "koseven"
+  ],
+  "authors": [
+    {
+      "name": "Piotr Gołasz",
+      "role": "developer"
+    },
+    {
+      "name": "Fernando Petrelli (ferpetrelli)",
+      "email": "fer.petrelli@gmail.com",
+      "role": "developer"
+    }
+  ]
+}
